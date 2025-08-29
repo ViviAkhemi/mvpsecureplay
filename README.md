@@ -1,4 +1,9 @@
-## ⚠️ Aviso: Este projeto é voltado exclusivamente para fins educacionais e de pesquisa. O código está disponível para análise, estudo e testes, mas o uso comercial, redistribuição ou implantação sem autorização prévia é proibido.
+#### ⚠️ Aviso
+
+Este projeto é voltado exclusivamente para fins educacionais e de pesquisa.  
+O código está disponível apenas para análise e aprendizado.  
+Uso comercial, redistribuição ou implantação sem autorização é proibido.
+
 
 # 🔐 MVPSECUREPLAY
 
