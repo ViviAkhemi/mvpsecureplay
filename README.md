@@ -1,8 +1,7 @@
-#### ⚠️ Aviso
+##### ⚠️ Nota importante
 
-Este projeto é voltado exclusivamente para fins educacionais e de pesquisa.  
-O código está disponível apenas para análise e aprendizado.  
-Uso comercial, redistribuição ou implantação sem autorização é proibido.
+Este repositório tem como objetivo fornecer recursos educacionais.  
+Por favor, utilize-o de forma responsável e respeitando as limitações de uso para fins não comerciais.
 
 
 # 🔐 MVPSECUREPLAY
