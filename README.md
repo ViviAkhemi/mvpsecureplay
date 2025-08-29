@@ -1,3 +1,5 @@
+## ⚠️ Aviso: Este projeto é voltado exclusivamente para fins educacionais e de pesquisa. O código está disponível para análise, estudo e testes, mas o uso comercial, redistribuição ou implantação sem autorização prévia é proibido.
+
 # 🔐 MVPSECUREPLAY
 
 Plataforma gamificada para treinamento em **segurança da informação** voltada a colaboradores corporativos, com foco em níveis **Leigo** e **Iniciante**. Criado com Django (backend) e Vue.js (frontend), usando Docker e PostgreSQL.
@@ -58,3 +60,5 @@ mvpsecureplay/
 │   └── mvpsecure-ui/   # Projeto Vue.js
 ├── docker-compose.yml
 ├── README.md
+
+
