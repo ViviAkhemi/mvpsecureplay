@@ -1,7 +1,3 @@
-# mvpsecureplay
-Plataforma de treinamento em cibersegurança gamificada, acessível via navegador ou dispositivo móvel. O público-alvo inclui colaboradores de diferentes áreas, não apenas desenvolvedores
-
-
 # 🔐 MVPSECUREPLAY
 
 Plataforma gamificada para treinamento em **segurança da informação** voltada a colaboradores corporativos, com foco em níveis **Leigo** e **Iniciante**. Criado com Django (backend) e Vue.js (frontend), usando Docker e PostgreSQL.
